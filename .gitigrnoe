@@ -29,6 +29,10 @@ lerna-debug.log*
 .settings/
 *.sublime-workspace
 
+er-next-api.iml
+modules.xml
+vcs.xml
+
 # IDE - VSCode
 .vscode/*
 !.vscode/settings.json
